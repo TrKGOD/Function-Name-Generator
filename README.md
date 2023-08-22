@@ -1,4 +1,3 @@
-# encrypt-keygen
-Simple Encryption Key Generator Made with Python
-You can select the amount of numbers and letters on the key, other than that there is nothing special
-created for personal purposes
+# Function Name generator
+When obfuscating scripts, it should be a priority to replace variable/class/function names with random ones. That way, in combination with other techniques, you will be able to bypass detection easily. But you should keep in mind the entropy of the payloads you develop. 
+
